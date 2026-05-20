@@ -2,13 +2,13 @@
   "name": "youtube-backend",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "keywords": [
     "node",
     "express"
   ],
   "license": "ISC",
   "author": "Khiyam BIN Khalid",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
